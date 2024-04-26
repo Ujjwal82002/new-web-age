@@ -7,7 +7,7 @@ export default function Header() {
     <div className = "bg-[#2699fb] p-4">
         <div className="max-w-[1240px]  items-center py-[12px] flex justify-between mx-auto">
             <div className='text-3xl'>
-             NewTalwind Tech
+             Company
             </div>
             {
                 !toogle ?
